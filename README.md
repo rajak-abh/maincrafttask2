@@ -8,7 +8,7 @@ MainCrafts is a responsive multi-page business website built with HTML, CSS, and
 - `about.html` - Company overview, mission, and feature cards.
 - `contact.html` - Contact page with a validated message form.
 ##live Demo
-relaxed-lily-21f390.netlify.app
+link: relaxed-lily-21f390.netlify.app
 
 <img width="1887" height="912" alt="Screenshot 2026-06-09 140928" src="https://github.com/user-attachments/assets/47c107d0-2dad-4817-a6d4-0f38e689a1c8" />
 
